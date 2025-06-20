@@ -66,8 +66,8 @@ const Auth = () => {
     <div className="min-h-screen flex items-center justify-center p-4 poop-gradient">
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <PoopMascot size="xl" animate />
-          <h1 className="text-3xl font-bold text-amber-900 mt-4 mb-2">
+          <PoopMascot size="xl" animate useImage />
+          <h1 className="text-3xl font-bold mt-4 mb-2 font-gochi bg-gradient-to-r from-amber-600 via-orange-500 to-amber-700 bg-clip-text text-transparent">
             The one & only poop master!
           </h1>
         </div>
