@@ -1,13 +1,5 @@
 # Welcome to Poop Score Showdown
 
-## Project info
-
-**URL**: https://lovable.dev/projects/35cfbbef-b545-4f05-ab93-f7e28dc063f8
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/35cfbbef-b545-4f05-ab93-f7e28dc063f8) and start prompting.
